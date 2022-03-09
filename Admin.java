@@ -1,5 +1,3 @@
-package Projekte;
-
 public class Admin {
 
 	private String name;
