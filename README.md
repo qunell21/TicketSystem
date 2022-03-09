@@ -10,3 +10,14 @@ TicketSystem
 ---
 
 >Der Nutzer darf nur neue Tickets eingeben aber nichts verändern. 
+
+---
+
+>Benötigt Admin/Nutzer Accounts
+>> Email und Passwort
+
+---
+
+>Priorität von Tickets
+
+---
